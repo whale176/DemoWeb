@@ -21,6 +21,7 @@ h1{
 .top_banner>li{
   float: left;
   margin-left: 3em;
+  font-weight: 500;
 }
 
 div{
@@ -31,7 +32,7 @@ div{
 section{
   width: 960px;
   margin: 0 auto;
-  height: 600px;
+  height: 700px;
   position: relative;
   font-size: 20px;
   background: url(http://i.imgur.com/qHFBqbU.png) no-repeat center bottom;
@@ -39,8 +40,12 @@ section{
 
 .phone{
   position: absolute;
-  top: 0;
+  top: 100px;
   left: 160px;
+}
+
+h2{
+  font-size: 40px;
 }
 
 .display_infor_title{
@@ -49,12 +54,9 @@ section{
   left: 560px;	
 }
 
-h2{
-  font-size: 40px;
-}
-
 .display_infor{
   padding-left: 0;
+  list-style-type: none;
 }
 
 .price{
