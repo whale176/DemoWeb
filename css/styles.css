@@ -112,3 +112,7 @@ li:first-child figure{
 .bottom_section,.cover{
 	float: left;
 }
+
+.register{
+  color:gray;
+}
