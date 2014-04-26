@@ -1,0 +1,33 @@
+.container{
+  width: 960px;
+  margin: 0 auto;
+}
+
+h1{
+  float: left;
+}
+
+ul{
+  float: left;
+  list-style-type: none;
+  margin-top: 3em;
+}
+
+li{
+  float: left;
+  margin-left: 3em;
+}
+
+#register{
+  float: right;
+  margin-top: 3em;
+}
+
+#content{
+  width: 960px;
+  margin: 0 auto;
+  height: 600px;
+  position: relative;
+  font-size: 20px;
+  background: url(http://i.imgur.com/qHFBqbU.png) no-repeat center bottom;	
+}
