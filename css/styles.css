@@ -13,15 +13,15 @@ h1{
 }
 
 .top_banner{
-  float: left;
   list-style-type: none;
+  float: left;
   margin-top: 3em;
 }
 
 .top_banner>li{
-  float: left;
   margin-left: 3em;
   font-weight: 500;
+  float: left;
 }
 
 div{
@@ -32,10 +32,10 @@ div{
 section{
   width: 960px;
   margin: 0 auto;
-  height: 700px;
   position: relative;
   font-size: 20px;
   background: url(http://i.imgur.com/qHFBqbU.png) no-repeat center bottom;
+  height: 700px;
 }
 
 .phone{
@@ -51,7 +51,7 @@ h2{
 .display_infor_title{
   position: absolute;
   top: 80px;
-  left: 560px;	
+  left: 560px;  
 }
 
 .display_infor{
@@ -110,9 +110,13 @@ li:first-child figure{
 }
 
 .bottom_section,.cover{
-	float: left;
+  float: left;
 }
 
 .register{
   color:gray;
+}
+
+.attachment{
+  height:450px;
 }
